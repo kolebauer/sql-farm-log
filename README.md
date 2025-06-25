@@ -11,7 +11,7 @@ The system is fully CLI-driven. Users can:
 - Update or delete existing entries
 
 
-[Software Demo Video](Don't Forget to Add Me)
+[Software Demo Video](https://youtu.be/MMDiUNBtcKs)
 
 
 # Relational Database
@@ -46,10 +46,10 @@ The database contains a single table called `farm_logs` with the following struc
 
 # Future Work
 
-- Merge this CLI project into a forked or copied version of my energy dashboard to begin pivoting toward a full-featured farm management dashboard.
+- Merge this CLI project into a forked or copied version of my energy dashboard to begin pivoting the energy management idea toward a full-featured farm management dashboard instead.
 - Design the system to be modular and customizable, allowing users to enable or disable features based on their specific operation (e.g., crop farming, dairy, ranching, or mixed-use).
 - Add crop tracking with lifecycle phases, input usage, and seasonal planning.
 - Integrate yield analysis based on historical logs and environmental conditions.
 - Develop livestock tracking for herd size, health records, and pasture rotation.
 - Incorporate expense tracking tied to specific fields, crops, or animals for better financial insights.
-
+- Advanced sorting and filtering.
